@@ -1,9 +1,5 @@
 How to Access Vipre Account?
-------------------------------------------------------------------
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+=================================
 
 In today’s digital age, cyber threats are on the rise, making it essential for individuals and businesses to protect their devices from malware, ransomware, and other malicious attacks. Vipre is a renowned antivirus and cybersecurity software provider, offering comprehensive protection for PCs, Macs, and mobile devices.
 
